@@ -1,0 +1,21 @@
+    
+.completed{
+    background-color: green;
+    color:white;
+
+}
+.notCompleted{
+    background-color:red;
+    color:white;
+
+}
+button{
+    padding:5px;
+    border:none;
+}
+.notCompletedTask{
+    color:black;
+}
+.completedTask{
+    text-decoration: line-through red;
+}
